@@ -1,10 +1,5 @@
 # Mothership Challenge
 
-## Candidate Info
-Daniel Russell
-contactdanielrussell@gmail.com
-818-322-6180
-
 ## Instructions
 
 ##### Running the App
